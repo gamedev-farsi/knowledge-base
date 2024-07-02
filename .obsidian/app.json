@@ -1,0 +1,11 @@
+{
+  "attachmentFolderPath": "./_resources",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "rightToLeft": true,
+  "showRibbon": false,
+  "showInlineTitle": false
+}
