@@ -1,4 +1,6 @@
 # دانشنامه گِیم دِو فارسی
-![logo](_resources/logo.png)
+
+> در حال تکمیل ...
 
 ---
+![logo](_resources/logo.png)

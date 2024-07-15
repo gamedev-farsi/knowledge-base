@@ -6,7 +6,7 @@
       {
         "id": "f6546a41db17ee91",
         "type": "tabs",
-        "dimension": 47.913446676970636,
+        "dimension": 48.65488086087625,
         "children": [
           {
             "id": "da14788dce997ac7",
@@ -26,30 +26,53 @@
             "id": "9eb6d13b91c24dd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "دانشنامه/مفاهیم/رِندِر (Render).md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "352159f9e20626d5"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2237e72cd5d1aaed",
         "type": "tabs",
-        "dimension": 52.086553323029364,
+        "dimension": 51.34511913912375,
         "children": [
           {
             "id": "c5c4a682f8f4008d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "دانشنامه/مسیر.canvas",
+                "viewState": {
+                  "x": 145.3879499978498,
+                  "y": 228.48608959744513,
+                  "zoom": -1.3333332905916286
+                }
               }
             }
+          },
+          {
+            "id": "a5774f8ad4e5bc25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "دانشنامه/مفاهیم/رِندِر (Render).md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "352159f9e20626d5"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "تودو",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 313.5
   },
   "right": {
     "id": "47e1df2e1488ab11",
@@ -115,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "دانشنامه/مفاهیم/رِندِر (Render).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "دانشنامه/مفاهیم/رِندِر (Render).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "دانشنامه/مفاهیم/رِندِر (Render).md"
               }
             }
           }
@@ -175,45 +198,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5c4a682f8f4008d",
+  "active": "9eb6d13b91c24dd3",
   "lastOpenFiles": [
-    "دانشنامه/دانشنامه گِیم دِو فارسی - GameDevFarsi.md",
+    "دانشنامه/مفاهیم/موتور بازی سازی - Game Engine.md",
+    "دانشنامه/مفاهیم/فیزیک (Physics).md",
+    "دانشنامه/مفاهیم/آنریِل انجین - Unreal Engine.md",
+    "دانشنامه/مفاهیم/رِندِر (Render).md",
+    "دانشنامه/مفاهیم/صدا (Audio).md",
+    "دانشنامه/مفاهیم/ورودی (Input).md",
+    "دانشنامه/مفاهیم/برنامه نویسی (Programming).md",
+    "دانشنامه/گودو - Godot/گودو - Godot.md",
+    "دانشنامه/مفاهیم/مکان (Position).md",
+    "دانشنامه/مفاهیم/مبدا (Origin).md",
+    "دانشنامه/بدون دسته بندی/سیستم جهت گیری راست دست و چپ دست.md",
+    "دانشنامه/بدون دسته بندی/دستگاه مختصات دکارتی یا کارتزین (Cartesian coordinate system ).md",
+    "دانشنامه/بدون دسته بندی/دستگاه مختصات در نرم افزار های گوناگون.md",
     "README.md",
+    "دانشنامه/مسیر.canvas",
+    "دانشنامه/بُردار (vector).md",
+    "دانشنامه/طول (Width).md",
+    "دانشنامه/ارتفاع (Height).md",
+    "_resources/logo.png",
+    "_resources/400x100 - light.png",
+    "_resources/_templates/ساعت و تاریخ الان - میلادی.md",
+    "_resources/400x100 - white - transparent.png",
+    "_resources/400x100 - black - transparent.png",
     "LICENSE.md",
     "CODE_OF_CONDUCT.md",
-    "دانشنامه/ارتفاع (Height).md",
-    "دانشنامه/مفاهیم/مکان (Position).md",
-    "دانشنامه/بدون دسته بندی/سیستم جهت گیری راست دست و چپ دست.md",
-    "دانشنامه/طول (Width).md",
-    "دانشنامه/مفاهیم/بعد های متفاوت (Dimensions).md",
-    "دانشنامه/مسیر.canvas",
+    "دانشنامه/دانشنامه گِیم دِو فارسی - GameDevFarsi.md",
     "دانشنامه/یونیتی - Unity/گِیم آبجِکت (Game Object).md",
-    "دانشنامه/یونیتی - Unity/تِرَنسفُرم (Transform).md",
-    "دانشنامه/مفاهیم/دو بعدی (2D).md",
-    "دانشنامه/مفاهیم/سه بعدی(3D).md",
-    "دانشنامه/مفاهیم/گِیم لوپ (Game Loop).md",
-    "دانشنامه/بُردار (vector).md",
+    "دانشنامه/یونیتی - Unity/کامپوننت (Component).md",
+    "دانشنامه/یونیتی - Unity/یونیتی - Unity.md",
     "دانشنامه/عمق (Depth).md",
-    "دانشنامه/گودو - Godot/گودو - Godot.md",
-    "دانشنامه/مفاهیم/موتور بازی سازی - Game Engine.md",
-    "دانشنامه/بدون دسته بندی/دستگاه مختصات دکارتی یا کارتزین (Cartesian coordinate system ).md",
+    "دانشنامه/مفاهیم/گِیم لوپ (Game Loop).md",
     "دانشنامه/رِی لیب - Raylib",
     "دانشنامه/بِلِندِر - Blender",
     "دانشنامه/گودو - Godot",
-    "دانشنامه/بِلِندِر - Blender/بلندر (Blender).md",
-    "دانشنامه/یونیتی - Unity/کامپوننت (Component).md",
-    "دانشنامه/مفاهیم/بعد سوم - 3rd dimension.md",
     "دانشنامه/بدون دسته بندی",
-    "دانشنامه/یونیتی - Unity/یونیتی - Unity.md",
-    "دانشنامه/بدون دسته بندی/دستگاه مختصات در نرم افزار های گوناگون.md",
-    "دانشنامه/مفاهیم/مبدا (Origin).md",
     "دانشنامه/مفاهیم",
-    "دانشنامه/رِی لیب - Raylib/رِی لیب (Raylib).md",
     "دانشنامه/ریاضی (Mathematics)، فیزیک (Physics) و هندسه (Geometry)",
     "New folder",
     "دانشنامه/یونیتی - Unity",
     "دانشنامه",
-    "_resources/logo.png",
     "_resources/Pasted image 20240627210550.png",
     "attachments/Pasted image 20240627210524.png",
     "attachments"
