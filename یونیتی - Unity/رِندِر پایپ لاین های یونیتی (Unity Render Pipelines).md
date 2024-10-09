@@ -3,7 +3,7 @@
 - این خیلی مهمه که ما قبل از شروع به ساخت بازیمون،  رندر پایپ لاین صحیحی رو انتخاب کنیم
 - سوییچ کردن از یکی به دیگری ممکنه کار زمان بری باشه، مخصوصا وقتی که مدت زیادی از آغاز پروژه گذشته 
 
-![](../_resources/Unity%20Render%20pipelines.png)
+![](../../_resources/Unity%20Render%20pipelines.png)
 
 ## [رِندِر پایپ لاین Built-In یونیتی (Unity Built-In Render Pipeline)](رِندِر%20پایپ%20لاین%20Built-In%20یونیتی%20(Unity%20Built-In%20Render%20Pipeline).md)
 ## [رِندِر پایپ لاین URP یونیتی (Unity URP Render Pipeline)](رِندِر%20پایپ%20لاین%20URP%20یونیتی%20(Unity%20URP%20Render%20Pipeline).md)
