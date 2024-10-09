@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kb/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kb/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kb/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kb/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de4c852aa6fd7214",
+  "active": "b31dba3600f08d5f",
   "lastOpenFiles": [
-    "README.md",
     "kb/README.md",
+    "README.md",
+    "draft/دانشنامه گِیم دِو فارسی - GameDevFarsi.md",
+    "draft/خط (Line).md",
+    "draft/جَهَت - Direction.md",
+    "draft/برنامه نویسی (Programming).md",
+    "draft/بافت (Texture).md",
     "draft/Untitled.canvas",
     "kb/مفاهیم/_resources/رِندِر (Render) چیه و یعنی چی.png",
     "kb/یونیتی - Unity/یونیتی هاب (Unity Hub).md",
@@ -171,11 +176,6 @@
     "kb/ریاضی - Mathematics/ریاضی - Mathematics.md",
     "kb/ریاضی - Mathematics/اشکال هندسی (Geometry Shapes).md",
     "kb/مفاهیم/یک بُعدی (1D).md",
-    "kb/مفاهیم/گِیم لوپ (Game Loop).md",
-    "kb/مفاهیم/کالینگ (Culling).md",
-    "kb/مفاهیم/پیکسِل (Pixel).md",
-    "kb/مفاهیم/پُست-پِراسِسینگ (Post-Processing).md",
-    "kb/مفاهیم/واقعیت ترکیبی (Mixed Reality) یا MR.md",
     "kb/مفاهیم/_resources",
     "kb/_resources/Unity Versions.jpg",
     "kb/_resources/Unity Render pipelines.png",
