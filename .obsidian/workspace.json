@@ -4,72 +4,94 @@
     "type": "split",
     "children": [
       {
-        "id": "f6546a41db17ee91",
-        "type": "tabs",
-        "dimension": 48.65488086087625,
+        "id": "aa154e46ccea87cc",
+        "type": "split",
+        "dimension": 56.76784249384742,
         "children": [
           {
-            "id": "da14788dce997ac7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "دانشنامه/دانشنامه گِیم دِو فارسی - GameDevFarsi.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
+            "id": "773b7f61d7833709",
+            "type": "tabs",
+            "dimension": 40.668202764976954,
+            "children": [
+              {
+                "id": "a5774f8ad4e5bc25",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "draft/Untitled.canvas",
+                    "viewState": {
+                      "x": 130,
+                      "y": -100,
+                      "zoom": -0.5156144540304215
+                    }
+                  }
+                }
+              }
+            ]
           },
           {
-            "id": "9eb6d13b91c24dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "دانشنامه/مفاهیم/رِندِر (Render).md",
-                "mode": "source",
-                "source": false
+            "id": "03efe9015f025387",
+            "type": "tabs",
+            "dimension": 59.33179723502305,
+            "children": [
+              {
+                "id": "da14788dce997ac7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "draft/دانشنامه گِیم دِو فارسی - GameDevFarsi.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
-            },
-            "group": "352159f9e20626d5"
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       },
       {
         "id": "2237e72cd5d1aaed",
         "type": "tabs",
-        "dimension": 51.34511913912375,
+        "dimension": 43.23215750615258,
         "children": [
           {
             "id": "c5c4a682f8f4008d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "دانشنامه/مسیر.canvas",
-                "viewState": {
-                  "x": 145.3879499978498,
-                  "y": 228.48608959744513,
-                  "zoom": -1.3333332905916286
-                }
+                "file": "kb/_resources/Unity Versions.jpg"
               }
             }
           },
           {
-            "id": "a5774f8ad4e5bc25",
+            "id": "693e175debabcbd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "دانشنامه/مفاهیم/رِندِر (Render).md",
-                "mode": "preview",
+                "file": "kb/README.md.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "352159f9e20626d5"
+            }
+          },
+          {
+            "id": "f290e9a6ea1e0a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kb/یونیتی - Unity/یونیتی آی دی (Unity ID).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -101,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "تودو",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 395.5
   },
   "right": {
     "id": "47e1df2e1488ab11",
@@ -138,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "دانشنامه/مفاهیم/رِندِر (Render).md",
+                "file": "kb/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "دانشنامه/مفاهیم/رِندِر (Render).md",
+                "file": "kb/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,11 +200,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "دانشنامه/مفاهیم/رِندِر (Render).md"
+                "file": "kb/README.md.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,50 +221,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eb6d13b91c24dd3",
+  "active": "693e175debabcbd4",
   "lastOpenFiles": [
-    "دانشنامه/مفاهیم/موتور بازی سازی - Game Engine.md",
-    "دانشنامه/مفاهیم/فیزیک (Physics).md",
-    "دانشنامه/مفاهیم/آنریِل انجین - Unreal Engine.md",
-    "دانشنامه/مفاهیم/رِندِر (Render).md",
-    "دانشنامه/مفاهیم/صدا (Audio).md",
-    "دانشنامه/مفاهیم/ورودی (Input).md",
-    "دانشنامه/مفاهیم/برنامه نویسی (Programming).md",
-    "دانشنامه/گودو - Godot/گودو - Godot.md",
-    "دانشنامه/مفاهیم/مکان (Position).md",
-    "دانشنامه/مفاهیم/مبدا (Origin).md",
-    "دانشنامه/بدون دسته بندی/سیستم جهت گیری راست دست و چپ دست.md",
-    "دانشنامه/بدون دسته بندی/دستگاه مختصات دکارتی یا کارتزین (Cartesian coordinate system ).md",
-    "دانشنامه/بدون دسته بندی/دستگاه مختصات در نرم افزار های گوناگون.md",
-    "README.md",
-    "دانشنامه/مسیر.canvas",
-    "دانشنامه/بُردار (vector).md",
-    "دانشنامه/طول (Width).md",
-    "دانشنامه/ارتفاع (Height).md",
+    "kb/مفاهیم/کالینگ (Culling).md",
+    "kb/README.md.md",
+    "draft/دانشنامه گِیم دِو فارسی - GameDevFarsi.md",
+    "kb/مفاهیم/نقطه (Point).md",
+    "kb/مفاهیم/موتور بازی سازی - Game Engine.md",
+    "kb/مفاهیم/مکان (Position).md",
+    "kb/مفاهیم/گِیم لوپ (Game Loop).md",
+    "kb/مفاهیم/مبدا (Origin).md",
+    "kb/مفاهیم/فیزیک (Physics).md",
+    "draft/صدا (Audio).md",
+    "draft/مُدِل (Model).md",
+    "kb/مفاهیم/محور اعداد (Number Line).md",
+    "kb/مفاهیم/واقعیت افزوده (Augmented Reality) یا AR.md",
+    "kb/مفاهیم/واقعیت ترکیبی (Mixed Reality) یا MR.md",
+    "kb/مفاهیم/واقعیت توسعه یافته (Extended Reality) یا XR.md",
+    "kb/مفاهیم/واقعیت مجازی (Virtual Reality) یا VR.md",
+    "kb/مفاهیم/یک بُعدی (1D).md",
+    "draft/ورودی (Input).md",
+    "kb/مفاهیم/عمق (Depth).md",
+    "kb/مفاهیم/دوربین پِرسپِکتیو (Perspective Camera).md",
+    "kb/مفاهیم/دو بعدی (2D).md",
+    "kb/مفاهیم/دوربین (Camera).md",
+    "kb/مفاهیم/دستگاه مختصات دکارتی یا کارتزین (Cartesian coordinate system ).md",
+    "kb/مفاهیم/جابجایی (Displacement).md",
+    "kb/مفاهیم/پیکسِل (Pixel).md",
+    "kb/مفاهیم/پُست-پِراسِسینگ (Post-Processing).md",
+    "kb/آنریِل انجین - Unreal Engine",
+    "draft/مسیر.canvas",
+    "kb/ریاضی - Mathematics",
+    "kb/مفاهیم/_resources/رِندِر (Render) چیه و یعنی چی.png",
+    "kb/_resources/Unity Versions.jpg",
+    "kb/_resources/Unity Render pipelines.png",
+    "draft/Untitled.canvas",
     "_resources/logo.png",
-    "_resources/400x100 - light.png",
-    "_resources/_templates/ساعت و تاریخ الان - میلادی.md",
+    "draft/_resources/theme.css",
+    "draft/_resources/manifest.json",
     "_resources/400x100 - white - transparent.png",
+    "دانشنامه/_resources/400x100 - white - transparent.png",
+    "kb/_resources",
+    "kb/مفاهیم/_resources",
+    "kb/_resources",
+    "kb",
+    "_resources/400x100 - light.png",
     "_resources/400x100 - black - transparent.png",
-    "LICENSE.md",
-    "CODE_OF_CONDUCT.md",
-    "دانشنامه/دانشنامه گِیم دِو فارسی - GameDevFarsi.md",
-    "دانشنامه/یونیتی - Unity/گِیم آبجِکت (Game Object).md",
-    "دانشنامه/یونیتی - Unity/کامپوننت (Component).md",
-    "دانشنامه/یونیتی - Unity/یونیتی - Unity.md",
-    "دانشنامه/عمق (Depth).md",
-    "دانشنامه/مفاهیم/گِیم لوپ (Game Loop).md",
-    "دانشنامه/رِی لیب - Raylib",
-    "دانشنامه/بِلِندِر - Blender",
-    "دانشنامه/گودو - Godot",
-    "دانشنامه/بدون دسته بندی",
-    "دانشنامه/مفاهیم",
-    "دانشنامه/ریاضی (Mathematics)، فیزیک (Physics) و هندسه (Geometry)",
-    "New folder",
-    "دانشنامه/یونیتی - Unity",
-    "دانشنامه",
+    "kb/رِی لیب - Raylib",
+    "kb/بِلِندِر - Blender",
     "_resources/Pasted image 20240627210550.png",
-    "attachments/Pasted image 20240627210524.png",
-    "attachments"
+    "attachments/Pasted image 20240627210524.png"
   ]
 }

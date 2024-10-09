@@ -7,5 +7,11 @@
   "newFileLocation": "current",
   "rightToLeft": true,
   "showRibbon": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

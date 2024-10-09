@@ -1,0 +1,1 @@
+یک شاخه از [ریاضی - Mathematics](ریاضی%20-%20Mathematics.md) که تمرکزش روی [اشکال هندسی (Geometry Shapes)](اشکال%20هندسی%20(Geometry%20Shapes).md) و چگونگی ترکیبشون با هم دیگه هست.
